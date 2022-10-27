@@ -1,6 +1,4 @@
 # Tic Tac Toe web app
-Go to https://zeroesandexes.surge.sh/
-
 
 # Nano React App Default Javascript Template
 
